@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["option+super+p"],
+        "command": "php_net"
+    }
+]
